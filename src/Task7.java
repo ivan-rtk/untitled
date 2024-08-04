@@ -1,6 +1,6 @@
 public class Task7 {
     public static void TruthAndFalse(){
-        int a = -1;
+        int a =0;
         if (a< 0){
             System.out.println("true");
         }
